@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AirCo</string>
+    <string name="settings_label">On/Off Air Conditioner</string>
+    <string name="functional_label">Functional</string>
+    <string name="setting_onoff">On/Off</string>
+    <string name="setting_auto_on">Auto on</string>
+    <string name="setting_auto_off">Auto off</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="location_list">Location list</string>
+    <string name="privacy">http://www.google.com/policies/privacy</string>
+    <string name="notif_auto_on">AC auto on!</string>
+    <string name="notif_auto_off">AC auto off!</string>
+    <string name="touch_to_relaunch">Touch to relaunch app</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="need_location_permission_message">Membutuhkan izin lokasi</string>
+</resources>
